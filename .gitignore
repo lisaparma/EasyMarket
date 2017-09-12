@@ -1,0 +1,6 @@
+# Files and folders
+*.save
+*.DS_Store
+*.pro.user
+*.docx
+*.stash

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventario>
+    <Articolo>
+        <Codice>100</Codice>
+        <Nome>Mele - 1 kg</Nome>
+        <Marca>Melinda</Marca>
+        <Prezzo>3.1</Prezzo>
+        <Quantita>6</Quantita>
+        <Tipologia>Alimentare</Tipologia>
+    </Articolo>
+    <Articolo>
+        <Codice>101</Codice>
+        <Nome>CocaCola</Nome>
+        <Marca>CocaColaTM</Marca>
+        <Prezzo>0.9</Prezzo>
+        <Quantita>13</Quantita>
+        <Tipologia>Bevanda</Tipologia>
+    </Articolo>
+    <Articolo>
+        <Codice>102</Codice>
+        <Nome>Deodorante</Nome>
+        <Marca>Borotalco</Marca>
+        <Prezzo>2.2</Prezzo>
+        <Quantita>5</Quantita>
+        <Tipologia>Oggettistica</Tipologia>
+    </Articolo>
+    <Articolo>
+        <Codice>103</Codice>
+        <Nome>Mozzarella</Nome>
+        <Marca>Vallelata</Marca>
+        <Prezzo>2.4</Prezzo>
+        <Quantita>6</Quantita>
+        <Tipologia>Alimentare</Tipologia>
+    </Articolo>
+    <Articolo>
+        <Codice>104</Codice>
+        <Nome>Acqua naturale</Nome>
+        <Marca>ValliDelPasubio</Marca>
+        <Prezzo>0.3</Prezzo>
+        <Quantita>11</Quantita>
+        <Tipologia>Bevanda</Tipologia>
+    </Articolo>
+    <Articolo>
+        <Codice>105</Codice>
+        <Nome>Forbici</Nome>
+        <Marca>FabberCastel</Marca>
+        <Prezzo>0.9</Prezzo>
+        <Quantita>15</Quantita>
+        <Tipologia>Oggettistica</Tipologia>
+    </Articolo>
+</Inventario>
+
